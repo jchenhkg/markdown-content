@@ -5,8 +5,13 @@ Aerobatic defaults to some specific common front-end conventions. By conforming 
 Here is the basic suggested skeleton for your app repo that each of the starter templates conforms to:
 
 ```bash
-├── app
-│   ├── css
+├── NIR_VCIP_Challenge_dataset
+│   ├── NIR
+│   ├── RGB-Resgistered
+│   ├── RGB-Online
+│   ├── Validation
+
+
 │   │   ├── **/*.css
 │   ├── favicon.ico
 │   ├── images
